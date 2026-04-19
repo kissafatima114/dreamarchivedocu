@@ -231,7 +231,7 @@ figcaption {
 .process-grid {
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
-
+/* hi */
 .tools-section {
   margin: 40px 0;
   padding: 24px;
